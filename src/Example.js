@@ -3,7 +3,6 @@ import FoldImage from '../lib/react-fold-image';
 import media from './theme/media';
 import ToggleState from './components/ToggleState/ToggleState';
 import styled from 'styled-components';
-import './App.css';
 
 const StyledFoldImage = styled(FoldImage)`
   width: 70%;

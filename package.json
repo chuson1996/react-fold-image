@@ -1,5 +1,6 @@
 {
   "name": "react-fold-image",
+  "main": "lib/react-fold-image.js",
   "version": "0.1.0",
   "devDependencies": {
     "autoprefixer": "6.7.2",
@@ -43,7 +44,7 @@
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "2.0.2"
   },
-  "home": "http://chuson1996.github.io/react-fold-image",
+  "homepage": "http://chuson1996.github.io/react-fold-image",
   "dependencies": {},
   "scripts": {
     "start": "node scripts/start.js",
